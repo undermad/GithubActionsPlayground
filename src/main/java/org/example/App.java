@@ -15,6 +15,10 @@ public class App
         } else {
             System.out.println("bla bla bla");
         }
+        
+        for (int i = 0; i < 5; i++) {
+            System.out.println("Git Hub Actions in ACTION!");
+        }
 
     }
 
